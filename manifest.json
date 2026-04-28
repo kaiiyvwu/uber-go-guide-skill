@@ -1,0 +1,28 @@
+{
+  "name": "go-style-uber",
+  "version": "1.0.0",
+  "description": "Executable Go coding standard extracted from Uber Go Style Guide for automated code review and refactoring.",
+  "author": "guide",
+  "language": "go",
+  "rules_file": "go-style-uber.md",
+  "categories": [
+    "error-handling",
+    "interface-design",
+    "concurrency",
+    "memory-safety",
+    "api-design",
+    "code-style",
+    "testing",
+    "performance"
+  ],
+  "total_rules": 72,
+  "tags": [
+    "go",
+    "style-guide",
+    "code-review",
+    "linting",
+    "uber"
+  ],
+  "source": "uber-go/guide",
+  "license": "MIT"
+}
